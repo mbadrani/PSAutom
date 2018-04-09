@@ -2,6 +2,7 @@
 var should = require('should');
 var common = require('../../common.webdriverio');
 var globals = require('../../globals.webdriverio.js');
+//this is a little modif
 
 describe('The Creation of an Account in Front Office', function () {
     common.initMocha.call(this);
